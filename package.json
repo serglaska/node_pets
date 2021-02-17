@@ -1,0 +1,24 @@
+{
+  "name": "node_pets",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "ramda": "^0.27.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com-serglaska:serglaska/node_pets.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
